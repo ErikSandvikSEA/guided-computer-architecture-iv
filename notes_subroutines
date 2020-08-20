@@ -1,0 +1,26 @@
+Subroutines
+-----------------------
+
+Assembly language version of functions
+
+They don't accept arguments
+They don't return values
+
+Python example:
+
+def foo():
+    print('Hey')
+    print('World')
+    return
+
+foo()
+
+print('1')
+
+foo()
+
+print('2')
+
+foo()
+
+print('3')
